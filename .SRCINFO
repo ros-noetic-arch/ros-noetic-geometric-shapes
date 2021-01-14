@@ -13,7 +13,7 @@ pkgbase = ros-noetic-geometric-shapes
 	makedepends = ros-build-tools
 	makedepends = ros-noetic-resource-retriever
 	makedepends = ros-noetic-eigen-stl-containers
-	makedepends = ros-noetic-catkin>=0.5.68
+	makedepends = ros-noetic-catkin
 	makedepends = ros-noetic-octomap
 	makedepends = ros-noetic-shape-msgs
 	makedepends = ros-noetic-random-numbers
