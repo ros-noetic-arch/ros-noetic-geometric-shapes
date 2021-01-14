@@ -10,7 +10,7 @@ license=('BSD')
 ros_makedepends=(
     ros-noetic-resource-retriever
     ros-noetic-eigen-stl-containers
-    'ros-noetic-catkin>=0.5.68'
+    ros-noetic-catkin
     ros-noetic-octomap
     ros-noetic-shape-msgs
     ros-noetic-random-numbers
